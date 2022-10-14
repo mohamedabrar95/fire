@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "534571371037",
+    "firebase_url": "https://firethird-3b55c-default-rtdb.firebaseio.com",
+    "project_id": "firethird-3b55c",
+    "storage_bucket": "firethird-3b55c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534571371037:android:46022dd62c57ba02b294f4",
+        "android_client_info": {
+          "package_name": "com.example.firethird"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534571371037-6oi28bj0dgeob9tpk1lm0ffors4ta8ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4PXu2SpCy8NsetXJcmOJg-yFNdovb_3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534571371037-6oi28bj0dgeob9tpk1lm0ffors4ta8ns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
